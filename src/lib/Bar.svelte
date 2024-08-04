@@ -1,4 +1,4 @@
-<script lang="ts">
+<script>
 	let { value = $bindable() } = $props();
 </script>
 
